@@ -10,7 +10,7 @@
 
 | 日期 | 内容 |
 |---|---|
-| 9.17 周三 | 环境搭建：JDK 21 + IDEA + Git + Hello World |
+| 9.17 周四 | 环境搭建：JDK 21 + IDEA + Git + Hello World |
 
 ---
 
@@ -18,13 +18,13 @@
 
 | 日期 | 时长 | 内容 | 状态 |
 |---|---|---|---|
-| 9.18 周四 | 2h | 变量、字面量、8 种基本数据类型、运算符、if | ✅ |
-| 9.19 周五 | 2h | 摸鱼日 | ✅ |
-| 9.20 周六 | 6h | switch + for 循环 | ✅ |
-| 9.21 周日 | 2h | while/do-while + 3 个补做练习（变量大集合/类型转换/成绩等级）| |
-| 9.22 周一 | 2h | 数组（定义、遍历、常见操作）| |
-| 9.23 周二 | 2h | 方法（定义、参数、返回值、重载）| |
-| 9.24 周三 | 6h | ① 方法练习 ② 周复盘 ③ LeetCode：两数之和、移动零 ④ 掘金第 1 篇博客 | 🟢 |
+| 9.18 周五 | 6h | 变量、字面量、8 种基本数据类型、运算符、if | ✅ |
+| 9.19 周六 | 6h | 摸鱼日 | ✅ |
+| 9.20 周日 | 6h | switch + for 循环 | ✅ |
+| 9.21 周一 | 2h | 补做 3 个练习（变量大集合/类型转换/成绩等级）+ switch/for 巩固练习 | ✅ |
+| 9.22 周二 | 2h | while/do-while、break/continue、循环嵌套（数组顺延）| ✅ |
+| 9.23 周三 | 6h | 数组补欠（定义、初始化、遍历、练习）+ 力扣两数之和尝试 | ✅ |
+| 9.24 周四 | 6h | ① 方法（定义、参数、返回值、重载）② 方法练习 ③ 周复盘 ④ LeetCode 跑通两数之和 + 移动零 ⑤ 掘金第 1 篇博客 | 🟢 |
 
 ---
 
@@ -32,13 +32,13 @@
 
 | 日期 | 时长 | 内容 |
 |---|---|---|
-| 9.25 周四 | 2h | 类与对象（定义类、创建对象、this 关键字）|
-| 9.26 周五 | 2h | 构造器（有参/无参）、标准 JavaBean |
-| 9.27 周六 | 6h | 封装（private、getter/setter、权限修饰符）+ 练习：学生管理系统 v0.1（增删查）|
-| 9.28 周日 | 6h | static、代码块、单例模式 |
-| 9.29 周一 | 2h | 匿名对象 + 包机制 |
-| 9.30 周二 | 2h | API 文档查阅练习（String 常用方法）|
-| 10.1 周三 | 6h | ① 综合练习：用面向对象写一个"图书类" ② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
+| 9.25 周五 | 6h | 类与对象（定义类、创建对象、this 关键字）|
+| 9.26 周六 | 6h | 构造器（有参/无参）、标准 JavaBean |
+| 9.27 周日 | 6h | 封装（private、getter/setter、权限修饰符）+ 练习：学生管理系统 v0.1（增删查）|
+| 9.28 周一 | 2h | 匿名对象 + 包机制 |
+| 9.29 周二 | 2h | API 文档查阅练习（String 常用方法）|
+| 9.30 周三 | 6h | static、代码块、单例模式 |
+| 10.1 周四 | 6h | ① 综合练习：用面向对象写一个"图书类" ② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
 
 ---
 
@@ -46,13 +46,13 @@
 
 | 日期 | 时长 | 内容 |
 |---|---|---|
-| 10.2 周四 | 2h | 继承（extends、方法重写、super）|
-| 10.3 周五 | 2h | 多态（向上转型、向下转型、instanceof）|
-| 10.4 周六 | 6h | 抽象类（abstract）+ 接口（interface、implements、多实现）|
-| 10.5 周日 | 6h | 练习：用继承+多态+接口改造"图书管理系统"（加角色：管理员/普通用户）|
-| 10.6 周一 | 2h | 内部类（成员/局部/匿名）|
-| 10.7 周二 | 2h | 枚举（enum）|
-| 10.8 周三 | 6h | ① 阶段小项目练习 ② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
+| 10.2 周五 | 6h | 继承（extends、方法重写、super）|
+| 10.3 周六 | 6h | 多态（向上转型、向下转型、instanceof）|
+| 10.4 周日 | 6h | 抽象类（abstract）+ 接口（interface、implements、多实现）|
+| 10.5 周一 | 2h | 枚举（enum）|
+| 10.6 周二 | 2h | 内部类（成员/局部/匿名）|
+| 10.7 周三 | 6h | 练习：用继承+多态+接口改造"图书管理系统"（加角色：管理员/普通用户）|
+| 10.8 周四 | 6h | ① 阶段小项目练习 ② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
 
 ---
 
@@ -60,13 +60,13 @@
 
 | 日期 | 时长 | 内容 |
 |---|---|---|
-| 10.9 周四 | 2h | 异常体系（try-catch-finally、throws、throw）|
-| 10.10 周五 | 2h | 自定义异常 + 异常最佳实践 |
-| 10.11 周六 | 6h | String / StringBuilder / StringBuffer 深入 + Math / BigDecimal |
-| 10.12 周日 | 6h | Arrays 工具类 + System / Runtime + Date / LocalDate（Java 8 日期 API）|
-| 10.13 周一 | 2h | 正则表达式基础（Pattern、Matcher、常用语法）|
-| 10.14 周二 | 2h | 包装类（Integer、自动装箱拆箱）+ 常见坑 |
-| 10.15 周三 | 6h | ① 综合练习：文本解析器（正则 + 字符串处理）② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
+| 10.9 周五 | 6h | 异常体系（try-catch-finally、throws、throw）|
+| 10.10 周六 | 6h | 自定义异常 + 异常最佳实践 |
+| 10.11 周日 | 6h | String / StringBuilder / StringBuffer 深入 + Math / BigDecimal |
+| 10.12 周一 | 2h | 包装类（Integer、自动装箱拆箱）+ 常见坑 |
+| 10.13 周二 | 2h | 正则表达式基础（Pattern、Matcher、常用语法）|
+| 10.14 周三 | 6h | Arrays 工具类 + System / Runtime + Date / LocalDate（Java 8 日期 API）|
+| 10.15 周四 | 6h | ① 综合练习：文本解析器（正则 + 字符串处理）② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
 
 ---
 
@@ -74,27 +74,29 @@
 
 | 日期 | 时长 | 内容 |
 |---|---|---|
-| 10.16 周四 | 2h | Collection 体系总览 + ArrayList 基本使用 |
-| 10.17 周五 | 2h | LinkedList + List 的选用策略 |
-| 10.18 周六 | 6h | HashSet / TreeSet + 去重原理（equals + hashCode）|
-| 10.19 周日 | 6h | HashMap 基本使用 + 底层结构（数组+链表+红黑树概述）|
-| 10.20 周一 | 2h | 泛型（泛型类、泛型方法、泛型通配符）|
-| 10.21 周二 | 2h | Collections 工具类 + Comparator |
-| 10.22 周三 | 6h | ① 练习：用集合改写图书管理系统（HashMap 存储）② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
+| 10.16 周五 | 6h | Collection 体系总览 + ArrayList 基本使用 |
+| 10.17 周六 | 6h | LinkedList + List 的选用策略 |
+| 10.18 周日 | 6h | HashSet / TreeSet + 去重原理（equals + hashCode）|
+| 10.19 周一 | 2h | 泛型（泛型类、泛型方法、泛型通配符）|
+| 10.20 周二 | 2h | Collections 工具类 + Comparator |
+| 10.21 周三 | 6h | HashMap 基本使用 + 底层结构（数组+链表+红黑树概述）|
+| 10.22 周四 | 6h | ① 练习：用集合改写图书管理系统（HashMap 存储）② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
 
 ---
 
 ## week06（10.23 – 10.29）集合源码精读
 
+> 📝 每天笔记末尾加一节「对应的数据结构」：put 流程 → 哈希表、树化 → 红黑树、扩容 → 动态数组……源码和数据结构一次学两份
+
 | 日期 | 时长 | 内容 |
 |---|---|---|
-| 10.23 周四 | 2h | ArrayList 源码（1.5 倍扩容、elementData 数组）|
-| 10.24 周五 | 2h | ArrayList 源码笔记整理（自己画扩容流程图）|
-| 10.25 周六 | 6h | HashMap 源码上（扰动函数 `(h = key.hashCode()) ^ (h >>> 16)`、`(n-1) & hash`、put 流程）|
-| 10.26 周日 | 6h | HashMap 源码下（树化阈值 8 / 退化 6、加载因子 0.75、JDK7 头插 vs JDK8 尾插）|
-| 10.27 周一 | 2h | LinkedHashMap / TreeMap 概述 |
-| 10.28 周二 | 2h | ConcurrentHashMap 源码（JDK7 分段锁 → JDK8 CAS + synchronized + ForwardingNode）|
-| 10.29 周三 | 6h | ① 源码总结博客（掘金第 6 篇，这是面试高频考点！）② LeetCode 2 题 ③ 周复盘 | 🟢 |
+| 10.23 周五 | 6h | ArrayList 源码（1.5 倍扩容、elementData 数组）+ 画扩容流程图 |
+| 10.24 周六 | 6h | HashMap 源码上（扰动函数 `(h = key.hashCode()) ^ (h >>> 16)`、`(n-1) & hash`、put 流程）|
+| 10.25 周日 | 6h | HashMap 源码下（树化阈值 8 / 退化 6、加载因子 0.75、JDK7 头插 vs JDK8 尾插）|
+| 10.26 周一 | 2h | LinkedHashMap / TreeMap 概述 |
+| 10.27 周二 | 2h | ConcurrentHashMap 概念预习（分段锁、CAS、synchronized 是什么）|
+| 10.28 周三 | 6h | ConcurrentHashMap 源码（JDK7 分段锁 → JDK8 CAS + synchronized + ForwardingNode）|
+| 10.29 周四 | 6h | ① 源码总结博客（掘金第 6 篇，这是面试高频考点！）② LeetCode 2 题 ③ 周复盘 | 🟢 |
 
 ---
 
@@ -102,13 +104,13 @@
 
 | 日期 | 时长 | 内容 |
 |---|---|---|
-| 10.30 周四 | 2h | File 类 + 字节流（InputStream / OutputStream）|
-| 10.31 周五 | 2h | 字符流（Reader / Writer）+ 缓冲流 |
-| 11.1 周六 | 6h | 序列化 + try-with-resources + 练习：文件复制工具 |
-| 11.2 周日 | 6h | 多线程基础（Thread、Runnable、线程生命周期、synchronized）|
-| 11.3 周一 | 2h | Lambda 表达式 + 函数式接口（Function / Predicate / Supplier）|
-| 11.4 周二 | 2h | Stream API（filter、map、collect、reduce）|
-| 11.5 周三 | 6h | ① 练习：用 Stream 重构之前项目中的集合操作 ② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
+| 10.30 周五 | 6h | File 类 + 字节流 + 字符流（InputStream / OutputStream / Reader / Writer）|
+| 10.31 周六 | 6h | 缓冲流 + 序列化 + try-with-resources + 练习：文件复制工具 |
+| 11.1 周日 | 6h | 多线程基础（Thread、Runnable、线程生命周期、synchronized）|
+| 11.2 周一 | 2h | Lambda 表达式 + 函数式接口（Function / Predicate / Supplier）|
+| 11.3 周二 | 2h | Stream API 入门（filter、map、collect）|
+| 11.4 周三 | 6h | Stream API 深入（reduce、groupingBy）+ 练习：用 Stream 重构之前项目中的集合操作 |
+| 11.5 周四 | 6h | ① 练习收尾、查漏 ② LeetCode 2 题 ③ 博客 ④ 周复盘 | 🟢 |
 
 ---
 
@@ -116,13 +118,13 @@
 
 | 日期 | 时长 | 内容 |
 |---|---|---|
-| 11.6 周四 | 2h | 复习：基础语法 + 面向对象 |
-| 11.7 周五 | 2h | 复习：异常 + API + 泛型 |
-| 11.8 周六 | 6h | 复习：集合 + 源码（默写 HashMap 核心流程）|
-| 11.9 周日 | 6h | 复习：IO + 多线程 + Lambda + Stream |
-| 11.10 周一 | 2h | 模拟面试：自问自答 20 个 JavaSE 高频面试题 |
-| 11.11 周二 | 2h | 查漏补缺，重点突击薄弱环节 |
-| 11.12 周三 | 6h | ① 阶段总结博客 ② LeetCode 2 题 ③ **阶段大复盘**：评估是否进入第二阶段 | 🟢 |
+| 11.6 周五 | 6h | 复习：基础语法 + 面向对象 |
+| 11.7 周六 | 6h | 复习：异常 + API + 泛型 |
+| 11.8 周日 | 6h | 复习：集合 + 源码（默写 HashMap 核心流程）|
+| 11.9 周一 | 2h | 数据结构薄弱点复习（链表/树/哈希，结合近期错题）+ JavaSE 查漏 |
+| 11.10 周二 | 2h | 模拟面试第一轮：自问自答 20 个 JavaSE 高频面试题（侧重语法~集合）|
+| 11.11 周三 | 6h | 复习：IO + 多线程 + Lambda + Stream + 模拟面试第二轮（结合错题）|
+| 11.12 周四 | 6h | ① 阶段总结博客 ② LeetCode 2 题 ③ **阶段大复盘**：评估是否进入第二阶段 | 🟢 |
 
 ---
 
