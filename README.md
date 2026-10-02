@@ -15,7 +15,7 @@ My Java learning journey 🚀
 
 ---
 
-### 第一阶段：JavaSE（week00–week12，9.17 – 12.10）
+### 第一阶段：JavaSE（week00–week07，9.17 – 11.1）
 
 > 主线课看到 P149，上下部只看点名内容；原理类内容看一遍留印象
 
@@ -23,18 +23,13 @@ My Java learning journey 🚀
 |---|---|---|
 | week00–01 | 环境搭建、基础语法、数组、方法 | ✅ |
 | week02 | 面向对象基础（第 8 章）+ 原理篇 + 学生管理系统 v0.1 | ✅ |
-| week03 | 第 10 章：static、final、枚举 | |
-| week04 | 第 11 章上：继承 + 权限修饰符 | |
-| week05 | 第 11 章下：多态、抽象类、接口、内部类 | |
-| week06 | 第 12 章：String、ArrayList + 学生管理 v0.2 | |
-| week07 | 第 13 章：游戏项目实战 | |
-| week08 | 第 14 章：Math/System/包装类 + 上部时间类、lambda | |
-| week09 | 上部 P185–199 集合进阶（源码留印象）| |
-| week10 | 下部 P2–26 Map 集合（HashMap 源码速览）| |
-| week11 | 下部 Stream 流 + 异常（异常必会）| |
-| week12 | 反射（机动）+ JavaSE 总复习与模拟面试 | |
+| week03 | static、final、枚举 + 继承、权限修饰符 | |
+| week04 | 多态、抽象类、接口、内部类 + String、StringBuilder | |
+| week05 | ArrayList + 游戏项目 + Math/System/包装类 | |
+| week06 | 集合进阶、Map、Stream、异常 | |
+| week07 | JavaSE 总复习与模拟面试 → **11.1 完结** | |
 
-> ❌ 不看：IO 流、多线程、网络编程、方法引用、正则——需要时再说
+> ❌ 不看：IO 流、多线程、网络编程、方法引用、正则、反射——需要时再说
 
 ---
 
