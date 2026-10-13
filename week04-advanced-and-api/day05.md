@@ -13,16 +13,25 @@
   - String ↔ StringBuilder：`new StringBuilder(str)` / `sb.toString()`
 - **P130 字符串的四个算法小练习**（跟着视频敲了一遍，未独立默写）
 
-## 假会清单（重点）
-- ❌→✅ **`append` 的返回值**：我以为是"拼接后的字符"，实为 **`return this`**，所以能链式写
-- ❌→✅ **核心洞：String 不可变只停在名词**，没落成"方法必须接住"的动作
+## 12 题快检（8 对 / 4 错）
+- ✅ `substring(2,5)` 取 2,3,4，不含 5（含头不含尾）
+- ✅ `substring(3)` 从索引 3 截到末尾
+- ✅ 为什么要用 StringBuilder：循环拼接造大量垃圾对象，它在同一对象上改
+- ✅ `reverse()` 是 StringBuilder 特有，因为 String 不可变、改不了内容
+- ✅ String ↔ StringBuilder 互转（`new StringBuilder(str)` / `sb.toString()`）
+- ✅ `trim()` 只剪两端（abc 移到中间时中间空格不动）
+- ✅ `"2026-10-13".split("-")` → `{"2026","10","13"}`，长度 3
+- ✅ `sb.append("c").append("d")` 链式成立，`toString().length()` = 4
+- ❌→✅ **假会 ①**：`append` 返回的不是"拼接后的字符"，而是 **`return this`**（返回自己），所以能链式
+- ❌→✅ **假会 ②（核心洞）**：String 不可变只停在名词，没落成"方法必须接住"的动作
   - `s.replace('l','L');` 执行完 `s` 没变——**没接住新返回的串，白干**
   - **铁律：String 的所有"修改"方法（substring / replace / trim / toUpperCase…）都不改自己，只返回新串**；不接住 = 白干
-- ❌→✅ **`toUpperCase` / `toLowerCase` 是"整串变换"，`replace` 是"定点替换"**
-  - 要把 `"hello"` 变成 `"heLLo"`，只能用 `s = s.replace('l','L')`；`toUpperCase` 会误伤 h/e/o，`toLowerCase` 方向反了
+- ❌→✅ **假会 ③**：`toUpperCase` / `toLowerCase` 是"整串变换"，`replace` 是"定点替换"
+  - 要把 `"hello"` 变成 `"heLLo"`，只能用 `s = s.replace('l','L')`；`toUpperCase` 会误伤 h/e/o
+- ❌→✅ **假会 ④**：第一版交换写反——`s[left] = temp` 方向错了，`temp` 没备份就先用（局部变量未初始化直接编译报错）；交换三步顺序必须是"先备份 → 再覆盖 → 最后回填"
 
-## 补漏
-- `replace` 两个重载的返回类型都是 `String`（不是 void）
+## 补漏（快检里没学到的）
+- `replace` 两个重载（`char,char` / `String,String`）返回类型都是 `String`（不是 void）
 - `split` 三个坑：
   1. 点是正则元字符，要用 `"\\."` 或 `"[.]"`
   2. 空段保留：`"a,b,,c".split(",")` 长度 4
