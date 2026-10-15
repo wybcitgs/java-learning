@@ -23,8 +23,8 @@ My Java learning journey 🚀
 |---|---|---|
 | week00–01 | 环境搭建、基础语法、数组、方法 | ✅ |
 | week02 | 面向对象基础（第 8 章）+ 原理篇 + 学生管理系统 v0.1 | ✅ |
-| week03 | static、final、枚举 + 继承、权限修饰符 | |
-| week04 | 多态、抽象类、接口、内部类 + String、StringBuilder | |
+| week03 | static、final、枚举 + 继承、权限修饰符 | ✅ |
+| week04 | 多态、抽象类、接口、内部类 + String、StringBuilder | ✅ |
 | week05 | ArrayList + 游戏项目 + Math/System/包装类 | |
 | week06 | 集合进阶、Map、Stream、异常 | |
 | week07 | JavaSE 总复习与模拟面试 → **11.1 完结** | |
