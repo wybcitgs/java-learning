@@ -9,7 +9,7 @@
   - 假会 2 条：this.name 的身份（字段 vs 形参）、参数回传的标准表述
   - 复盘文件：week01-02-review.md，以后复习只看假会清单
 - **🚀 掘金第 1 篇发布**（欠 7 天终于发）：
-  https://juejin.cn/spost/7691264673031192576
+  https://juejin.cn/post/7691264673031192576
   《Java 新手写学生管理系统：两个让我查了半天的 Scanner bug》
 
 ## 没完成的

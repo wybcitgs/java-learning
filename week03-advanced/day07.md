@@ -12,7 +12,7 @@
 
 ## 今天发布
 - 🚀 **掘金第 2 篇**：《Java 第三周学习笔记：static、final、枚举与继承》
-  https://juejin.cn/spost/7694301851915599899
+  https://juejin.cn/post/7694301851915599899
   素材 = 本周全部所学（static / final 三态 / 枚举 / 继承五讲 / 权限对照表）
 
 ## 没完成的
