@@ -25,9 +25,11 @@ My Java learning journey 🚀
 | week02 | 面向对象基础（第 8 章）+ 原理篇 + 学生管理系统 v0.1 | ✅ |
 | week03 | static、final、枚举 + 继承、权限修饰符 | ✅ |
 | week04 | 多态、抽象类、接口、内部类 + String、StringBuilder | ✅ |
-| week05 | ArrayList + 游戏项目 + Math/System/包装类 | |
+| week05 | ArrayList + 游戏项目 + Math/System/包装类 | ✅（欠 P146–149） |
 | week06 | 集合进阶、Map、Stream、异常 | |
 | week07 | JavaSE 总复习与模拟面试 → **11.1 完结** | |
+
+> ⏳ 欠账：**P146–149（Math / System / 包装类）**——week05 存档未跟，week06 弹性日补，week07 总复习前确认清零
 
 > ❌ 不看：IO 流、多线程、网络编程、方法引用、正则、反射——需要时再说
 
