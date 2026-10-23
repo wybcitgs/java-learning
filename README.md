@@ -29,7 +29,8 @@ My Java learning journey 🚀
 | week06 | 集合进阶、Map、Stream、异常 | |
 | week07 | JavaSE 总复习与模拟面试 → **11.1 完结** | |
 
-> ⏳ 欠账：**P146–149（Math / System / 包装类）**——week05 存档未跟，week06 弹性日补，week07 总复习前确认清零
+> ⏳ 欠账：**P146–149（Math / System / 包装类）**——week05 存档未跟，week06 弹性日补（上部 P155 / P157 / P174，约 1h37m），week07 总复习前确认清零
+> 📚 两套补充课分集目录与每集时长：[course-catalog/](course-catalog/)（上部 200 集 / 下部 200 集）
 
 > ❌ 不看：IO 流、多线程、网络编程、方法引用、正则、反射——需要时再说
 
