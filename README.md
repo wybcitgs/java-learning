@@ -26,10 +26,12 @@ My Java learning journey 🚀
 | week03 | static、final、枚举 + 继承、权限修饰符 | ✅ |
 | week04 | 多态、抽象类、接口、内部类 + String、StringBuilder | ✅ |
 | week05 | ArrayList + 游戏项目 + Math/System/包装类 | ✅（欠 P146–149） |
-| week06 | 集合进阶、Map、Stream、异常 | |
-| week07 | JavaSE 总复习与模拟面试 → **11.1 完结** | |
+| week06 | 集合进阶（Collection/List/Set）、泛型 | 进行中（P185–193 已学） |
+| week07 | Map/HashMap、Stream、异常 + 周复盘 | |
+| week08 | JavaSE 总复习与模拟面试 → **11.8 完结** | |
 
-> ⏳ 欠账：**P146–149（Math / System / 包装类）**——week05 存档未跟，week06 弹性日补（上部 P155 / P157 / P174，约 1h37m），week07 总复习前确认清零
+> ⏳ 欠账：**P146–149（Math / System / 包装类）**——week05 存档未跟，week07（11.3）补（上部 P155 / P157 / P174，约 1h37m），总复习前确认清零
+> 📅 **11.9 起进入 JavaWeb，学习周切换为自然周（周一–周日）**
 > 📚 两套补充课分集目录与每集时长：[course-catalog/](course-catalog/)（上部 200 集 / 下部 200 集）
 
 > ❌ 不看：IO 流、多线程、网络编程、方法引用、正则、反射——需要时再说
