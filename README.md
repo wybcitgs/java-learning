@@ -15,7 +15,7 @@ My Java learning journey 🚀
 
 ---
 
-### 第一阶段：JavaSE（week00–week07，9.17 – 11.1）
+### 第一阶段：JavaSE（week00–week08，9.17 – 11.8）
 
 > 主线课看到 P149，上下部只看点名内容；原理类内容看一遍留印象
 
@@ -26,8 +26,8 @@ My Java learning journey 🚀
 | week03 | static、final、枚举 + 继承、权限修饰符 | ✅ |
 | week04 | 多态、抽象类、接口、内部类 + String、StringBuilder | ✅ |
 | week05 | ArrayList + 游戏项目 + Math/System/包装类 | ✅（欠 P146–149） |
-| week06 | 集合进阶（Collection/List/Set）、泛型 | 进行中（P185–193 已学） |
-| week07 | Map/HashMap、Stream、异常 + 周复盘 | |
+| week06 | 集合进阶（Collection/List/Set）、泛型、lambda | ✅（Map/Stream/异常顺延 week07） |
+| week07 | Map/HashMap、Stream、异常、时间类 + 周复盘 | 进行中（Day01：P2–13 完成） |
 | week08 | JavaSE 总复习与模拟面试 → **11.8 完结** | |
 
 > ⏳ 欠账：**P146–149（Math / System / 包装类）**——week05 存档未跟，week07（11.3）补（上部 P155 / P157 / P174，约 1h37m），总复习前确认清零
