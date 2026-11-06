@@ -18,9 +18,9 @@ My Java learning journey 🚀
 ```
 javase/                 第一阶段 JavaSE（week00 – week08）
   week00-setup/ … week07-map-stream-exception/
-  week08-javase-revise/ 总复习与完结（11.6 – 11.8）
-javaweb/                第二阶段 JavaWeb（week09 起，11.9 开始）
-spring/                 第三阶段 Spring Boot + 项目（尚未开始）
+  finale/                收尾期（11.6 – 11.8，3 天，**不计入周号**）
+javaweb/                第二阶段 JavaWeb（week08–11，11.9 开始，自然周）
+spring/                 第三阶段 Spring Boot + 项目（尚未开始，week12–21）
 course-catalog/         三套课分集目录与每集时长（跨阶段共用）
 PLAN.md                 每日/每周计划
 ```
@@ -40,7 +40,7 @@ PLAN.md                 每日/每周计划
 | week05 | ArrayList + 游戏项目（P146–149 当时未跟，已补） | ✅ |
 | week06 | 集合进阶（Collection/List/Set）、泛型、lambda | ✅（Map/Stream/异常顺延 week07） |
 | week07 | Map/HashMap、Stream、异常、时间类、BigInteger + 周复盘 | ✅ **收官**（视频全清，力扣 5/5，掘金第 6 篇） |
-| week08 | JavaSE 总复习与模拟面试 → **11.8 完结** | 进行中 |
+| 收尾期 | JavaSE 总复习与模拟面试 → **11.8 完结**（`javase/finale/`，不计入周号） | 进行中 |
 
 > ✅ 欠账已清零：**P146–149（Math / System + Object / 包装类 / BigInteger-BigDecimal）**——week05 存档未跟，week07（11.3–11.4）按主线第 14 章补完
 > 📅 **11.9 起进入 JavaWeb，学习周切换为自然周（周一–周日）**
@@ -51,7 +51,7 @@ PLAN.md                 每日/每周计划
 
 ---
 
-### 第二阶段：JavaWeb（week09 起，11.9 – 12 月上旬）
+### 第二阶段：JavaWeb（week08–11，11.9 – 12 月上旬）
 
 > 📺 AI+JavaWeb 开发入门 · Tlias 教学管理系统项目实战
 > 需求分析 → 设计 → 前后端开发 → 测试 → 优化 → 部署
@@ -61,7 +61,7 @@ PLAN.md                 每日/每周计划
 
 ---
 
-### 第三阶段：Spring Boot + 项目实战（week13–22，12 月 – 2027 年 2 月中）
+### 第三阶段：Spring Boot + 项目实战（week12–21，12 月 – 2027 年 2 月中）
 
 > 开课前约 3 天集中补：多线程（下部 P135–167）、IO 流（P74–134 精选）、反射（P191–197）
 
