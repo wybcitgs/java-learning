@@ -21,7 +21,7 @@ javase/                 第一阶段 JavaSE（week00 – week08）
   finale/                收尾期（11.6 – 11.8，3 天，**不计入周号**）
 javaweb/                第二阶段 JavaWeb（week08–11，11.9 开始，自然周）
 spring/                 第三阶段 Spring Boot + 项目（尚未开始，week12–21）
-course-catalog/         三套课分集目录与每集时长（跨阶段共用）
+course-catalog/         四套课分集目录与每集时长（跨阶段共用）
 PLAN.md                 每日/每周计划
 ```
 
@@ -44,7 +44,7 @@ PLAN.md                 每日/每周计划
 
 > ✅ 欠账已清零：**P146–149（Math / System + Object / 包装类 / BigInteger-BigDecimal）**——week05 存档未跟，week07（11.3–11.4）按主线第 14 章补完
 > 📅 **11.9 起进入 JavaWeb，学习周切换为自然周（周一–周日）**
-> 📚 三套课分集目录与每集时长：[course-catalog/](course-catalog/)（主线 149 集 / 上部 200 集 / 下部 200 集）
+> 📚 四套课分集目录与每集时长：[course-catalog/](course-catalog/)（主线 149 / 上部 200 / 下部 200 / JavaWeb 200）
 
 > ⏸️ JavaSE 阶段不学：IO 流、多线程、反射、网络编程 Socket、正则、斗地主项目
 > → 前三项**排到第三阶段开课前集中补**（见 PLAN「开课前补齐」），Socket 永久跳过
@@ -53,10 +53,18 @@ PLAN.md                 每日/每周计划
 
 ### 第二阶段：JavaWeb（week08–11，11.9 – 12 月上旬）
 
-> 📺 AI+JavaWeb 开发入门 · Tlias 教学管理系统项目实战
-> 需求分析 → 设计 → 前后端开发 → 测试 → 优化 → 部署
+> 📺 全网首发 AI+JavaWeb 开发入门 · Tlias 教学管理系统项目实战（BV1yGydYEE3H）
+> **200 集，约 75h58m**；目录见 [course-catalog/javaweb-BV1yGydYEE3H.md](course-catalog/javaweb-BV1yGydYEE3H.md)
 
-- MySQL：依托学校课程每周跟学，Web/Spring 阶段直接用
+| 周 | 内容 |
+|---|---|
+| week08 | 前端基础（P1–30，1.25 倍速）+ Maven/单元测试（P31–39）+ SpringBootWeb 入门（P40–49）⭐ |
+| week09 | MySQL + JDBC + MyBatis + 部门管理 + 多表查询（P50–92） |
+| week10 | 员工管理 + 事务 + 文件上传 + 登录认证（P93–132） |
+| week11 | AOP + 原理篇 + Maven高级 + Vue工程化 + **Tlias 案例（P160–181，核心）** |
+| 后置 | Linux + Docker（P182–199，7h34m）→ 12 月上旬或实习前 |
+
+- MySQL：依托学校课程同步跟学
 - OS / 网络理论：面试前 1 周突击
 
 ---
